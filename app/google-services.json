@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105233824457",
+    "project_id": "bangladesh-news-7e4e0",
+    "storage_bucket": "bangladesh-news-7e4e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105233824457:android:93e95ca73e292eb2302b18",
+        "android_client_info": {
+          "package_name": "com.ar.bangladeshnewsasik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7o9hUc5nfDn4mWFQP0zbrqjXvIj6KdVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
